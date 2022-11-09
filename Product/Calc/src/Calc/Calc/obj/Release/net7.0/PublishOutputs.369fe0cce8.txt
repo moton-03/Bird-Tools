@@ -1,1 +1,0 @@
-C:\GitHub\Bird-Tools\Product\Calc\src\Calc\Calc\bin\Release\net7.0\publish\web.config
